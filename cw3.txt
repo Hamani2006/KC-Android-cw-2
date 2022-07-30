@@ -1,0 +1,11 @@
+public class Main
+{
+	public static void main(String[] args) {
+        int higt = 160;
+        if(higt > 160) {
+            System.out.println("you are approved");
+        }else{
+            System.out.println("your hight is to low ");
+        }
+	}
+}
